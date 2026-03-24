@@ -1,4 +1,0 @@
-foobar
-barfoo
-arfaboo
-local ?
